@@ -1,0 +1,2 @@
+rm /home/masudulhasanmasudb/Music/hdd_data/result_log/greedy_approach/ST4000DM000_1_first.txt
+python3 comparison_between_greedy_brute.py 1
